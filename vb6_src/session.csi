@@ -1,0 +1,16 @@
+[History]
+B0=SessionManager/frmSessionEdit/buildTreeOfAreas
+B1=SessionManager/frmSessionEdit/Form_Load
+B2=SessionManager/globals/loadAreas
+B3=SessionManager/frmSessionEdit/Form_Initialize
+B4=SessionManager/frmSessionEdit
+B5=SessionManager/MDIForm1/MDIForm_Load
+B6=SessionManager/MDIForm1
+B7=SessionManager/files
+B8=SessionManager/testers
+B9=SessionManager/tester
+B10=SessionManager/loadfile/loadSession
+B11=SessionManager/loadfile
+B12=SessionManager/globals
+B13=SessionManager/frmTextDetails
+B14=SessionManager/frmSessionEdit/msflexBugs_DblClick

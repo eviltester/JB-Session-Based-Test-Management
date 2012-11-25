@@ -1,0 +1,8 @@
+JB Session Editor
+22/1/02
+   added ability to load sessions
+6/2/02
+	baselined at version 1 and from here on will track the defects found and use this as part of the example of testing an application.
+30/6/03
+       Double clicking on a bug or issue will open the bug/issue, unless the forms are maximised within the main parent, in which case a new window will be opened - workaround, don't maximise the main window
+

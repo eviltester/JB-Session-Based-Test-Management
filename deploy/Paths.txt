@@ -1,0 +1,14 @@
+#localsessions
+.\localsessions
+#localdatafiles
+.\localdatafiles
+#networksessions
+c:\sessions\submitted
+#networkdatafiles
+c:\sessions\datafiles
+#syntaxchecker
+c:\sessions\tools
+#coverageini
+coverage.ini
+#testerNamesFile
+testers.txt

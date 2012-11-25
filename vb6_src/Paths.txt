@@ -1,0 +1,14 @@
+#localsessions
+c:\test\jbsessions\localsessions
+#localdatafiles
+c:\test\jbsessions\localdatafiles
+#networksessions
+c:\sessions\submitted
+#networkdatafiles
+c:\sessions\datafiles
+#syntaxchecker
+c:\sessions\tools
+#coverageini
+c:\sessions\coverage.ini
+#testerNamesFile
+testers.txt
